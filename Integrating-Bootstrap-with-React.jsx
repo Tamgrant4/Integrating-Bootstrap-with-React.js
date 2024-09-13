@@ -33,7 +33,6 @@ const HomePage = () => {
   );
 };
 
-export default HomePage;
 
 import React from 'react';
 import { Container, Row, Col, Image, Button, NavLink } from 'react-bootstrap';
@@ -59,5 +58,3 @@ const NotFound = () => {
     </Container>
   );
 };
-
-export default NotFound;
